@@ -1,0 +1,1 @@
+este repositorio ajuda-nos a entender melhor o projeto
